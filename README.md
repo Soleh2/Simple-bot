@@ -99,7 +99,7 @@ webpmux -version
 # Features
 - Cek [disini](https://github.com/Nando35/Simple-bot/blob/main/message/help.js)
 
-# MAKASIH LORT
+# TERIMA KASIH KEPADA
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 * [`Arip`](https://github.com/Akkun3704)
 * [`MhankBarBar`](https://github.com/MhankBarBar)
