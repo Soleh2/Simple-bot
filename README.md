@@ -1,9 +1,9 @@
 <div align="center">
 <img src="https://telegra.ph/file/9b873234a9cc47a5916ae.jpg" alt="NinoBot" width="500" />
 
-# NinoBot
+# Simple-bot
 
-> NinoBot is a multipurpose WhatsApp bot using Adiwajshing-Baileys library!
+> Simple-bot is a multipurpose WhatsApp bot using Adiwajshing-Baileys library!
 >
 >
 
@@ -49,8 +49,8 @@
 # Instalasi
 ## For Windows
 ```bash
-git clone https://github.com/Nino-chan02/NinoWangy
-cd NinoWangy
+git clone https://github.com/Nando35/Simple-bot
+cd Simple-bot
 npm install
 node main
 ```
@@ -59,8 +59,8 @@ node main
 termux-setup-storage
 pkg update && pkg upgrade
 pkg install nodejs git ffmpeg libwebp 
-git clone https://github.com/Nino-chan02/NinoWangy
-cd NinoWangy
+git clone https://github.com/Nando35/Simple-bot
+cd Simple-bot
 npm install
 node main
 ```
@@ -97,7 +97,7 @@ webpmux -version
 ```
 
 # Features
-- Cek [disini](https://github.com/Nino-chan02/NinoWangyy/blob/main/message/help.js)
+- Cek [disini](https://github.com/Nando35/Simple-bot/blob/main/message/help.js)
 
 # MAKASIH LORT
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
@@ -108,3 +108,4 @@ webpmux -version
 * [`Slavyan`](https://github.com/SlavyanDesu)
 * [`Galang`](https://github.com/Zobin33)
 * [`Franky`](https://github.com/Frankysolo)
+* [`Nando`](https://github.com/Nando35)
