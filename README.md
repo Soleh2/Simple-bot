@@ -3,7 +3,7 @@
 
 # Simple-bot
 
-> Simple-bot is a multipurpose WhatsApp bot using Adiwajshing-Baileys library!
+> Simple-bot adalah script ori dari Nino dan Ikyy yang saya ubah sedemikian rupa.
 >
 >
 
